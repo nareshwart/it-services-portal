@@ -13,7 +13,7 @@ A complete, production-ready Java web application has been created with all requ
 **Build Date**: May 24, 2026  
 **Java Version**: Java 21  
 **Build Tool**: Maven 3.6+  
-**Deployment Target**: Tomcat 10.1+  
+**Deployment Target**: Tomcat 10.1++ 
 
 ---
 
